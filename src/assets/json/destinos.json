@@ -1,0 +1,228 @@
+{
+    "Destinos":
+[
+  {"es":
+    [
+      {"Nacionales":
+        [
+          {
+            "nombre":"Acapulco, Guerrero",
+            "descripcion":"Con un clima privilegiado durante todo el año y sus bellas playas, Acapulco es un destino ideal para la familia, parejas o amigos. Aquí debe dejarse seducir por la vida nocturna o deleitarse con las propuestas gastronómicas regionales.",
+            "imagen":"http://cms.posadas.com/posadas/Catalogs/Media/Destinos%20FA/Fotos_destinos_FAM/Acapulco/240x240/genericas/fiesta_americana_destinos_acapulco_generica_03.jpg",
+            "codigoCiudad":"CITY_ACA_MX"
+          },
+          {
+            "nombre":"Cancún, Quintana Roo",
+            "descripcion":"Glamorosa, mágica, paradisiaca. Cancún toca los sentidos con el encanto del Caribe y con diversas alternativas para el placer: sus playas de fina arena, el mar azul turquesa, todo el mundo maya a su alcance.",
+            "imagen":"http://cms.posadas.com/posadas/Catalogs/Media/Destinos%20FA/Fotos_destinos_FAM/Canc¿n/240x240/Genericas/Fiesta_Americana_Destinos_Cancun_Tulum_02.jpg",
+            "codigoCiudad":"CITY_CUN_MX"
+          },
+          {
+            "nombre":"Ciudad de México, Distrito Federal",
+            "descripcion":"La capital de México es una ciudad de origen antiguo, la más grande del mundo; una metrópoli con un centro financiero, político y cultural vasto, con varias actividades recreativas para realizar.",
+            "imagen":"http://cms.posadas.com/posadas/Catalogs/Media/Destinos%20FA/Fotos_destinos_FAM/Ciudad%20de%20M%C2%BFxico/240x240/Genericas/Fiesta_Americana_Destinos_Ciudad_de_Mexico_Angel_de_la_Independencia_01.jpg",
+            "codigoCiudad":"CITY_MEX_MX"
+          },
+          {
+            "nombre":"Cozumel, Quintana Roo",
+            "descripcion":"Una isla donde la naturaleza facilita la práctica de deportes como el buceo, snorkel o la pesca. Cuenta con el segundo arrecife más grande del mundo, con zonas arqueológicas mayas y parques naturales como el Parque Nacional.",
+            "imagen":"http://cms.posadas.com/posadas/Catalogs/Media/DESTINOS/Cozumel/Fiesta_Americana_Destinos_Cozumel_snorkel.jpg",
+            "codigoCiudad":"StaMxMeCozum347"
+          },
+          {
+            "nombre":"Chetumal, Quintana Roo",
+            "descripcion":"Descripción pendiente.",
+            "imagen":"../../theme/favc/New/images/destinations/chetumal.jpg",
+            "codigoCiudad":"CITY_CTM_MX"
+          },
+          {
+            "nombre":"Guadalajara, Jalisco",
+            "descripcion":"Guadalajara es la representación de la mexicanidad por sus impresionantes edificios históricos, los típicos mariachis, sus charreadas, sus artesanías y sus deliciosos platillos: birria de carnero y el pozole rojo.",
+            "imagen":"http://cms.posadas.com/posadas/Catalogs/Media/Destinos%20FA/Fotos_destinos_FAM/Guadalajara/240x240/Genericas/Fiesta_Americana_Destinos_Guadalajara_Instituto_Cultural_Caba¿as.jpg",
+            "codigoCiudad":"CITY_GDL_MX"
+          },
+          {
+            "nombre":"Los Cabos, Baja California Sur",
+            "descripcion":"Descripción pendiente.",
+            "imagen":"../../theme/favc/New/images/destinations/los-cabos.jpg",
+            "codigoCiudad":"REG_MX_LosCabo"
+          },
+          {
+            "nombre":"Monterrey, Nuevo León",
+            "descripcion":"Monterrey Ciudad moderna y llena de propuestas que encantan, destino recurrente de los viajeros de negocios y cada vez más de los de placer. Visite aquí el Parque Fundidora, el Barrio Antiguo, admire el Cerro de la Silla.",
+            "imagen":"http://cms.posadas.com/posadas/Catalogs/Media/Destinos%20FA/Fotos_destinos_FAM/Monterrey/480x240/genericas/Fiesta_Americana_Destinos_Monterrey_Grutas_de_Garc¿a.jpg",
+            "codigoCiudad":"CITY_MTY_MX"
+          },
+          {
+            "nombre":"Playa Del Carmen, Riviera Maya",
+            "descripcion":"Descripción pendiente.",
+            "imagen":"../../theme/favc/New/images/destinations/playa-del-carmen.jpg",
+            "codigoCiudad":"CITY_PCM_MX"
+          },
+          {
+            "nombre":"Puerto Vallarta, Jalisco",
+            "descripcion":"El sexto destino más atractivo a nivel mundial es un pintoresco pueblo ubicado entre el Océano Pacífico y la Sierra Madre. Un destino que ofrece hermosas playas, actividades culturales, deportes acuáticos y bares.",
+            "imagen":"http://cms.posadas.com/posadas/Catalogs/Media/DESTINOS/Puerto%20Vallarta/Fiesta_Americana_Destinos_Puerto_Vallarta_Los_Arcos.jpg",
+            "codigoCiudad":"CITY_PVR_MX"
+          },
+          {
+            "nombre":"Veracruz",
+            "descripcion":"Veracruz, colorido y alegre, es un destino que cuenta su historia a través de la Catedral, de San Juan de Ulúa, de su centro histórico y de las zonas arqueológicas. Se debe probar un exquisito café en el famoso Café La Parroquia.",
+            "imagen":"http://cms.posadas.com/posadas/Catalogs/Media/DESTINOS/Veracruz/Fiesta_Americana_Destinos_Veracruz_Plaza_de_la_Republica_Veracruz.jpg",
+            "codigoCiudad":"CITY_VER_MX"
+          }
+        ]
+      },
+      {"Internacionales":
+        [
+          {
+            "nombre":"Orlando, Florida",
+            "descripcion":"Monterrey Ciudad moderna y llena de propuestas que encantan, destino recurrente de los viajeros de negocios y cada vez más de los de placer. Visite aquí el Parque Fundidora, el Barrio Antiguo, admire el Cerro de la Silla.",
+            "imagen":"http://fa-vacationclub.com/resources/img/destinations/hilton/hilton-orlando-seaworld.jpg",
+            "codigoCiudad":"CITY_ORL_FL_US"
+          },
+          {
+            "nombre":"Las Vegas, Nevada",
+            "descripcion":"La Ciudad Blanca atrapa con su pasado colonial y sus vestigios arqueológicos, envuelve con sus colores, olores y sabores a todo tipo de visitante, mientras le susurra al oído las notas de los trovadores yucatecos.",
+            "imagen":"http://fa-vacationclub.com/resources/img/destinations/hilton/hilton-vegas-boulevard.jpg",
+            "codigoCiudad":"CITY_LAS_NV_US"
+          },
+          {
+            "nombre":"Miami,Florida",
+            "descripcion":"South Beach, Miami, define la sofisticación urbana con sus cafés al aire libre, su arquitectura art déco y su estilo multicultural. Localizado sobre el prestigioso Ocean Drive, HiltonGrand Vacations Club en McAlpin-Ocean Plaza te pone a pocos pasos de los más célebres bares, boutiques, galerías de arte y centros culturales de la zona. El elegante diseño de cada suite ofrece un paraíso de relajación que se complementa con la estimulante vida de South Beach.",
+            "imagen":"http://fa-vacationclub.com/resources/img/destinations/hilton/hilton-miami-ocean.jpg",
+            "codigoCiudad":""
+          },
+          {
+            "nombre":"Hawái",
+            "descripcion":"Magníficamente ubicada en la soleada Costa Kohala de la Isla Grande de Hawái, Kohala Suites en Hilton Grand Vacations Club ofrece un oasis de relajación en el corazón de Waikoloa. El impecable diseño de las suites combina un estilo tropical elegante y casual. Disfruta la vista de un volcán activo, visita una plantación de café o práctica golf en campos de campeonato.",
+            "imagen":"http://fa-vacationclub.com/resources/img/destinations/hilton/hilton-hawaii-kohala.jpg",
+            "codigoCiudad":""
+          }
+        ]
+      }
+    ]
+  },
+  {"en":
+  [
+    {"Nacionales":
+      [
+        {
+          "nombre":"Acapulco, Guerrero",
+          "descripcion":"Con un clima privilegiado durante todo el año y sus bellas playas, Acapulco es un destino ideal para la familia, parejas o amigos. Aquí debe dejarse seducir por la vida nocturna o deleitarse con las propuestas gastronómicas regionales.",
+          "imagen":"http://cms.posadas.com/posadas/Catalogs/Media/Destinos%20FA/Fotos_destinos_FAM/Acapulco/240x240/genericas/fiesta_americana_destinos_acapulco_generica_03.jpg",
+          "codigoCiudad":"CITY_ACA_MX"
+        },
+        {
+          "nombre":"Cancún, Quintana Roo",
+          "descripcion":"Glamorosa, mágica, paradisiaca. Cancún toca los sentidos con el encanto del Caribe y con diversas alternativas para el placer: sus playas de fina arena, el mar azul turquesa, todo el mundo maya a su alcance.",
+          "imagen":"http://cms.posadas.com/posadas/Catalogs/Media/Destinos FA/Fotos_destinos_FAM/Canc¿n/240x240/Genericas/Fiesta_Americana_Destinos_Cancun_Tulum_02.jpg",
+          "codigoCiudad":"CITY_CUN_MX"
+        },
+        {
+          "nombre":"Ciudad de México, Distrito Federal",
+          "descripcion":"Aguascalientes recibe al visitante con una gama de atractivos como los baños termales de Ojo Caliente, el centro histórico con sus edificios de cantera y los Jardines de San Marcos que albergan el famoso templo del mismo nombre.",
+          "imagen":"http://cms.posadas.com/posadas/Catalogs/Media/DESTINOS/Merida/Fiesta_Americana_Destinos_Barrio_San_Marcos.jpg",
+          "codigoCiudad":"CITY_AGU_MX"
+        },
+        {
+          "nombre":"Cozumel, Quintana Roo",
+          "descripcion":"Una isla donde la naturaleza facilita la práctica de deportes como el buceo, snorkel o la pesca. Cuenta con el segundo arrecife más grande del mundo, con zonas arqueológicas mayas y parques naturales como el Parque Nacional.",
+          "imagen":"http://cms.posadas.com/posadas/Catalogs/Media/DESTINOS/Cozumel/Fiesta_Americana_Destinos_Cozumel_snorkel.jpg",
+          "codigoCiudad":"StaMxMeCozum347"
+        },
+        {
+          "nombre":"Chetumal, Quintana Roo",
+          "descripcion":"Descripción pendiente.",
+          "imagen":"../../theme/favc/New/images/destinations/chetumal.jpg",
+          "codigoCiudad":"CITY_CTM_MX"
+        },
+        {
+          "nombre":"Guadalajara, Jalisco",
+          "descripcion":"Guadalajara es la representación de la mexicanidad por sus impresionantes edificios históricos, los típicos mariachis, sus charreadas, sus artesanías y sus deliciosos platillos: birria de carnero y el pozole rojo.",
+          "imagen":"http://cms.posadas.com/posadas/Catalogs/Media/Destinos FA/Fotos_destinos_FAM/Guadalajara/240x240/Genericas/Fiesta_Americana_Destinos_Guadalajara_Instituto_Cultural_Caba¿as.jpg",
+          "codigoCiudad":"CITY_GDL_MX"
+        },
+        {
+          "nombre":"Los Cabos, Baja California Sur",
+          "descripcion":"Descripción pendiente.",
+          "imagen":"../../theme/favc/New/images/destinations/los-cabos.jpg",
+          "codigoCiudad":"REG_MX_LosCabo"
+        },
+        {
+          "nombre":"Monterrey, Nuevo León",
+          "descripcion":"Monterrey Ciudad moderna y llena de propuestas que encantan, destino recurrente de los viajeros de negocios y cada vez más de los de placer. Visite aquí el Parque Fundidora, el Barrio Antiguo, admire el Cerro de la Silla.",
+          "imagen":"http://cms.posadas.com/posadas/Catalogs/Media/Destinos FA/Fotos_destinos_FAM/Monterrey/480x240/genericas/Fiesta_Americana_Destinos_Monterrey_Grutas_de_Garc¿a.jpg",
+          "codigoCiudad":"CITY_MTY_MX"
+        },
+        {
+          "nombre":"Playa Del Carmen, Riviera Maya",
+          "descripcion":"Descripción pendiente.",
+          "imagen":"../../theme/favc/New/images/destinations/playa-del-carmen.jpg",
+          "codigoCiudad":"CITY_PCM_MX"
+        },
+        {
+          "nombre":"Puerto Vallarta, Jalisco",
+          "descripcion":"El sexto destino más atractivo a nivel mundial es un pintoresco pueblo ubicado entre el Océano Pacífico y la Sierra Madre. Un destino que ofrece hermosas playas, actividades culturales, deportes acuáticos y bares.",
+          "imagen":"http://cms.posadas.com/posadas/Catalogs/Media/DESTINOS/Puerto Vallarta/Fiesta_Americana_Destinos_Puerto_Vallarta_Los_Arcos.jpg",
+          "codigoCiudad":"CITY_PVR_MX"
+        },
+        {
+          "nombre":"Veracruz",
+          "descripcion":"Veracruz, colorido y alegre, es un destino que cuenta su historia a través de la Catedral, de San Juan de Ulúa, de su centro histórico y de las zonas arqueológicas. Se debe probar un exquisito café en el famoso Café La Parroquia.",
+          "imagen":"http://cms.posadas.com/posadas/Catalogs/Media/DESTINOS/Veracruz/Fiesta_Americana_Destinos_Veracruz_Plaza_de_la_Republica_Veracruz.jpg",
+          "codigoCiudad":"CITY_VER_MX"
+        }
+      ]
+    },
+    {"Internacionales":
+      [
+        {
+          "nombre":"Orlando, Florida",
+          "descripcion":"Monterrey Ciudad moderna y llena de propuestas que encantan, destino recurrente de los viajeros de negocios y cada vez más de los de placer. Visite aquí el Parque Fundidora, el Barrio Antiguo, admire el Cerro de la Silla.",
+          "imagen":"http://fa-vacationclub.com/resources/img/destinations/hilton/hilton-orlando-seaworld.jpg",
+          "codigoCiudad":"CITY_ORL_FL_US"
+        },
+        {
+          "nombre":"Las Vegas, Nevada",
+          "descripcion":"La Ciudad Blanca atrapa con su pasado colonial y sus vestigios arqueológicos, envuelve con sus colores, olores y sabores a todo tipo de visitante, mientras le susurra al oído las notas de los trovadores yucatecos.",
+          "imagen":"http://fa-vacationclub.com/resources/img/destinations/hilton/hilton-vegas-boulevard.jpg",
+          "codigoCiudad":"CITY_LAS_NV_US"
+        },
+        {
+          "nombre":"Miami,Florida",
+          "descripcion":"South Beach, Miami, define la sofisticación urbana con sus cafés al aire libre, su arquitectura art déco y su estilo multicultural. Localizado sobre el prestigioso Ocean Drive, HiltonGrand Vacations Club en McAlpin-Ocean Plaza te pone a pocos pasos de los más célebres bares, boutiques, galerías de arte y centros culturales de la zona. El elegante diseño de cada suite ofrece un paraíso de relajación que se complementa con la estimulante vida de South Beach.",
+          "imagen":"http://fa-vacationclub.com/resources/img/destinations/hilton/hilton-miami-ocean.jpg",
+          "codigoCiudad":""
+        },
+        {
+          "nombre":"Hawái",
+          "descripcion":"Magníficamente ubicada en la soleada Costa Kohala de la Isla Grande de Hawái, Kohala Suites en Hilton Grand Vacations Club ofrece un oasis de relajación en el corazón de Waikoloa. El impecable diseño de las suites combina un estilo tropical elegante y casual. Disfruta la vista de un volcán activo, visita una plantación de café o práctica golf en campos de campeonato.",
+          "imagen":"http://fa-vacationclub.com/resources/img/destinations/hilton/hilton-hawaii-kohala.jpg",
+          "codigoCiudad":""
+        }
+      ]
+    }
+  ]
+  }
+],
+  "Textos":
+  [
+    {"es":
+      {
+        "tituloNacional":"Destinos Nacionales",
+        "tituloInternacional":"Destinos Internacionales",
+        "hotelesDestino":"Ver hoteles en destino",
+        "disponibilidad":"Ver disponibilidad"
+      }
+    },
+    {"en":
+      {
+        "tituloNacional":"National Destinations",
+        "tituloInternacional":"International Destinations",
+        "hotelesDestino":"Hotels at destination",
+        "disponibilidad":"Check availability"
+      }
+    }
+  ]
+}

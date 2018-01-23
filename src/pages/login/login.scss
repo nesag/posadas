@@ -1,0 +1,50 @@
+page-login {
+    #login{
+        background-image: url('http://www.posadas.com/posadaCorpo-theme/images/dummy-img/stages/home-main-stage.jpg');
+        height: 781px;
+        display: block;
+        position: relative;
+        height: 100vh;
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center center;
+    }
+    .button-login{
+        height: 3.6rem !important;
+        border-radius: 19px;
+        font-size: 2rem !important; 
+    }
+
+    .logo-image{
+        text-align: center !important;
+    }
+    .logo-small{
+        width: 70%;
+        height: 8%;
+    }
+    .item-md {
+        background-color: rgba(114, 112, 112, 0.39);    
+    }
+    .form{
+        top: -30px
+    }
+    .text{
+        color: white !important;
+        font-size: 16px !important;
+        font-weight: 300
+
+    }
+    .text-input{
+        color: white !important;
+        font-size: 14px !important;
+        font-family: sans-serif;
+    }
+    .left{
+        float: left;
+        display: inline-block
+    }
+    .right{
+        float: right;
+        display: inline-block;        
+    }
+}

@@ -1,0 +1,41 @@
+<ion-content padding id="login">
+  <div class="content">
+    <div class="logo-image">
+        <img src="../assets/imgs/logo.png" 
+        alt="Logo" 
+        id="site-logo" 
+        class="logo-small">
+    </div>
+    <br/>
+    <br/>
+    <br/>
+    <ion-list class="form">
+      <ion-item>
+        <ion-label class="text" floating>Usuario</ion-label>
+        <ion-input [(ngModel)]="user"></ion-input>
+      </ion-item>
+    
+      <ion-item>
+        <ion-label floating class="text">Password</ion-label>
+        <ion-input  [type]="getType()" class="text-input" [(ngModel)]="password"></ion-input>
+        <ion-icon name="eye"  item-right (click)="toggleTextPassword()"></ion-icon>
+      </ion-item>
+      <ion-item >
+        <div class="logo-image">
+            <button ion-button block (click)="validaUsuario()" class="button-login">      
+                <ion-icon name='finger-print' is-active="true"></ion-icon>
+                Login
+              </button>
+        </div>
+      </ion-item>
+      <ion-item>
+        <div class="left">
+          <a href="">Registrarse</a>
+        </div>
+        <div class="right">
+            <a href=""> Recuperar Contraseña</a>
+          </div>
+      </ion-item>
+    </ion-list>
+  </div>
+</ion-content>
