@@ -9,11 +9,17 @@ import { AuthServiceProvider } from '../../providers/auth-service/auth-service';
 })
 export class HomePage {
 
+  value: any;
+
   constructor(public navCtrl: NavController,public authService: AuthServiceProvider) {
 
   }
 
   ionViewCanEnter(){
     return this.authService.authenticated();
+  }
+
+  onInput(ev: any){
+    console.log("Texto buscado:" + ev.target.value);
   }
 }
