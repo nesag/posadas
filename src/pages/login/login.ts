@@ -3,7 +3,6 @@ import { IonicPage, NavController, NavParams, AlertController } from 'ionic-angu
 import { HttpClient } from '@angular/common/http';
 import { AuthServiceProvider  } from './../../providers/auth-service/auth-service';
 
-import { WelcomePage } from '../welcome/welcome';
 import { TabsPage } from '../tabs/tabs';
 
 /**

@@ -15,6 +15,10 @@ import { StatusBar } from '@ionic-native/status-bar';
 import { SplashScreen } from '@ionic-native/splash-screen';
 import { AuthServiceProvider } from '../providers/auth-service/auth-service';
 import { HomePage } from '../pages/home/home';
+import { InfomembresiaPage } from '../pages/infomembresia/infomembresia';
+import { MinivacsPage } from '../pages/minivacs/minivacs';
+import { DestinosPage } from '../pages/destinos/destinos';
+
 
 @NgModule({
   declarations: [
@@ -25,7 +29,10 @@ import { HomePage } from '../pages/home/home';
     AboutPage,
     ContactPage,
     TabsPage,
-    HomePage
+    HomePage,
+    InfomembresiaPage,
+    MinivacsPage,
+    DestinosPage,
   ],
   imports: [
     BrowserModule,
@@ -41,7 +48,10 @@ import { HomePage } from '../pages/home/home';
     AboutPage,
     ContactPage,
     TabsPage,
-    HomePage
+    HomePage,
+    InfomembresiaPage,
+    MinivacsPage,
+    DestinosPage,
   ],
   providers: [
     StatusBar,

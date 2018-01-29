@@ -32,7 +32,7 @@
           {
             "nombre":"Chetumal, Quintana Roo",
             "descripcion":"Descripción pendiente.",
-            "imagen":"../../theme/favc/New/images/destinations/chetumal.jpg",
+            "imagen":"https://github.com/jwmsolutions/posadas-favc-web/blob/devFAVC/xRez/theme/favc/New/images/destinations/chetumal.jpg?raw=true",
             "codigoCiudad":"CITY_CTM_MX"
           },
           {
@@ -44,7 +44,7 @@
           {
             "nombre":"Los Cabos, Baja California Sur",
             "descripcion":"Descripción pendiente.",
-            "imagen":"../../theme/favc/New/images/destinations/los-cabos.jpg",
+            "imagen":"https://github.com/jwmsolutions/posadas-favc-web/blob/devFAVC/xRez/theme/favc/New/images/destinations/los-cabos.jpg?raw=true",
             "codigoCiudad":"REG_MX_LosCabo"
           },
           {
@@ -56,7 +56,7 @@
           {
             "nombre":"Playa Del Carmen, Riviera Maya",
             "descripcion":"Descripción pendiente.",
-            "imagen":"../../theme/favc/New/images/destinations/playa-del-carmen.jpg",
+            "imagen":"https://github.com/jwmsolutions/posadas-favc-web/blob/devFAVC/xRez/theme/favc/New/images/destinations/playa-del-carmen.jpg?raw=true",
             "codigoCiudad":"CITY_PCM_MX"
           },
           {

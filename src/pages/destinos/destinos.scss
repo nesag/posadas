@@ -1,0 +1,23 @@
+page-destinos {
+ 
+    .destinosContent ul li {
+        width: 90%;
+        margin-bottom: 20px;
+        cursor: pointer;
+    position: relative;
+    padding: 10px;
+    float: left;
+    width: 20%;
+    margin-bottom: 40px;
+    }
+    
+    .destinosContent .thumb {
+        margin-bottom: 10px;
+        position: relative;
+    }
+    
+      ion-content{
+        background-color: #a7a7a7 !important;
+        text-align: center;
+      }
+}

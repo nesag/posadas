@@ -4,6 +4,7 @@ import { AuthServiceProvider } from '../../providers/auth-service/auth-service';
 import { HttpClient } from '@angular/common/http';
 
 
+
 /**
  * Generated class for the WelcomePage page.
  *
@@ -25,10 +26,13 @@ export class WelcomePage {
     public authService: AuthServiceProvider,    
     public http: HttpClient,
   ) {
+     this.http.get('../../assets/json/destinos.json')
+    .subscribe(data => {
+      this.destinosObj = data;
+      
+      console.log('my data: ', this.destinosObj.Destinos[0].es[0].Nacionales);
 
-    this.http.get('https://www.reddit.com/r/gifs/new/.json?limit=10').map(res => res.json()).subscribe(data => {
-        this.destinosObj = data;
-    });
+    })
   }
 
   ionViewCanEnter(){

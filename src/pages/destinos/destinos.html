@@ -1,0 +1,25 @@
+<ion-header>
+
+    <ion-navbar>
+        <button ion-button menuToggle>
+          <ion-icon name="menu"></ion-icon>
+        </button>
+        <ion-title>Destinos nuevo</ion-title>
+      </ion-navbar>
+</ion-header>
+<ion-content padding class="destinosContent">
+    <ul *ngFor="let destino of destNacionales" (click)="goTo($event, destinosObj)">
+        <li>
+          <a href="http://reservation.favc.com/reservation/common/quickSearch.do?locationId=StaMxMeCozum347"></a>
+          <div class="thumb">
+            <img [src]="destino.imagen" alt="Hotel">
+            <span>{{destino.descripcion}}</span>
+          </div>
+          <div class="info">
+            <ion-icon ios="ios-map" md="md-map"></ion-icon>
+            <h6>{{destino.nombre}}</h6>
+            <span>Ver mapa y hoteles</span>
+          </div>
+        </li>
+      </ul>
+</ion-content>

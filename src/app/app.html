@@ -6,12 +6,10 @@
     </ion-toolbar>
   </ion-header>
   <ion-content>
-    <ion-list>
-      <ion-item (click)="goHome()">
-        Inicio
-      </ion-item>
-      <ion-item (click)="goDestinos()">
-          Destinos
+    <ion-list *ngFor="let page of pages">
+      
+      <ion-item (click)="goPage($event, page)">
+        {{page.title}}
       </ion-item>
     </ion-list>
   </ion-content>
